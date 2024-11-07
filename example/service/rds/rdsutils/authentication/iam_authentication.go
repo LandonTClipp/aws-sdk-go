@@ -10,10 +10,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/credentials/stscreds"
-	"github.com/aws/aws-sdk-go/aws/session"
-	"github.com/aws/aws-sdk-go/service/rds/rdsutils"
+	"github.com/LandonTClipp/aws-sdk-go/aws"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/credentials/stscreds"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/session"
+	"github.com/LandonTClipp/aws-sdk-go/service/rds/rdsutils"
 )
 
 type stubDriver struct{}

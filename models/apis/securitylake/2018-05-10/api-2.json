@@ -145,7 +145,7 @@
       "name":"DeleteAwsLogSource",
       "http":{
         "method":"POST",
-        "requestUri":"/v1/datalake/logsources/aws/delete",
+        "requestUri":"/v1/datalake/logsources/LandonTClipp/delete",
         "responseCode":200
       },
       "input":{"shape":"DeleteAwsLogSourceRequest"},

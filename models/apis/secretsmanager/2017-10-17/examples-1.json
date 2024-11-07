@@ -407,7 +407,7 @@
           "ARN": "arn:aws:secretsmanager:us-west-2:123456789012:secret:MyTestSecret-1a2b3c",
           "ReplicationStatus": [
             {
-              "KmsKeyId": "alias/aws/secretsmanager",
+              "KmsKeyId": "alias/LandonTClipp/secretsmanager",
               "Region": "eu-west-3",
               "Status": "InProgress"
             }

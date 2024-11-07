@@ -11,12 +11,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/aws/session"
-	"github.com/aws/aws-sdk-go/awstesting/integration"
-	"github.com/aws/aws-sdk-go/service/s3"
-	"github.com/aws/aws-sdk-go/service/s3/s3manager"
+	"github.com/LandonTClipp/aws-sdk-go/aws"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/request"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/session"
+	"github.com/LandonTClipp/aws-sdk-go/awstesting/integration"
+	"github.com/LandonTClipp/aws-sdk-go/service/s3"
+	"github.com/LandonTClipp/aws-sdk-go/service/s3/s3manager"
 )
 
 var config Config

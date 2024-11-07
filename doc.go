@@ -99,11 +99,11 @@
 //
 // See the session package documentation for more information on how to use Session
 // with the SDK.
-// https://docs.aws.amazon.com/sdk-for-go/api/aws/session/
+// https://docs.aws.amazon.com/sdk-for-go/api/LandonTClipp/session/
 //
 // See the Config type in the aws package for more information on configuration
 // options.
-// https://docs.aws.amazon.com/sdk-for-go/api/aws/#Config
+// https://docs.aws.amazon.com/sdk-for-go/api/LandonTClipp/#Config
 //
 // Configuring Credentials
 //
@@ -149,7 +149,7 @@
 // See the credentials package documentation for more information on credential
 // providers included with the SDK, and how to customize the SDK's usage of
 // credentials.
-// https://docs.aws.amazon.com/sdk-for-go/api/aws/credentials
+// https://docs.aws.amazon.com/sdk-for-go/api/LandonTClipp/credentials
 //
 // The SDK has support for the shared configuration file (~/.aws/config). This
 // support can be enabled by setting the environment variable, "AWS_SDK_LOAD_CONFIG=1",
@@ -189,7 +189,7 @@
 //   }))
 //
 // See the endpoints package for the AWS Regions and Endpoints metadata.
-// https://docs.aws.amazon.com/sdk-for-go/api/aws/endpoints/
+// https://docs.aws.amazon.com/sdk-for-go/api/LandonTClipp/endpoints/
 //
 // In addition to setting the region when creating a Session you can also set
 // the region on a per service client bases. This overrides the region of a
@@ -202,7 +202,7 @@
 //
 // See the Config type in the aws package for more information and additional
 // options such as setting the Endpoint, and other service client configuration options.
-// https://docs.aws.amazon.com/sdk-for-go/api/aws/#Config
+// https://docs.aws.amazon.com/sdk-for-go/api/LandonTClipp/#Config
 //
 // Making API Requests
 //
@@ -332,11 +332,11 @@
 //   	"os"
 //   	"time"
 //
-//   	"github.com/aws/aws-sdk-go/aws"
-//   	"github.com/aws/aws-sdk-go/aws/awserr"
-//   	"github.com/aws/aws-sdk-go/aws/request"
-//   	"github.com/aws/aws-sdk-go/aws/session"
-//   	"github.com/aws/aws-sdk-go/service/s3"
+//   	"github.com/LandonTClipp/aws-sdk-go/aws"
+//   	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/awserr"
+//   	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/request"
+//   	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/session"
+//   	"github.com/LandonTClipp/aws-sdk-go/service/s3"
 //   )
 //
 //   // Uploads a file to S3 given a bucket and object key. Also takes a duration

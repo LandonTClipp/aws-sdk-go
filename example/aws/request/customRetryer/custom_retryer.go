@@ -6,15 +6,15 @@ package main
 import (
 	"fmt"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/client"
-	"github.com/aws/aws-sdk-go/aws/credentials"
-	"github.com/aws/aws-sdk-go/aws/defaults"
-	"github.com/aws/aws-sdk-go/aws/endpoints"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/aws/session"
-	"github.com/aws/aws-sdk-go/service/cloudwatchlogs"
+	"github.com/LandonTClipp/aws-sdk-go/aws"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/awserr"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/client"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/credentials"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/defaults"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/endpoints"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/request"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/session"
+	"github.com/LandonTClipp/aws-sdk-go/service/cloudwatchlogs"
 )
 
 func main() {

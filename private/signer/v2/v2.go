@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/credentials"
-	"github.com/aws/aws-sdk-go/aws/request"
+	"github.com/LandonTClipp/aws-sdk-go/aws"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/credentials"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/request"
 )
 
 var (

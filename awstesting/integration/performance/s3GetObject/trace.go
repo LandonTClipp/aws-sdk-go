@@ -9,7 +9,7 @@ import (
 	"net/http/httptrace"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws/request"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/request"
 )
 
 type RequestTrace struct {

@@ -465,11 +465,11 @@
           "FindingIdentifiers": [
             {
               "Id": "arn:aws:securityhub:us-west-1:123456789012:subscription/pci-dss/v/3.2.1/PCI.Lambda.2/finding/a1b2c3d4-5678-90ab-cdef-EXAMPLE11111",
-              "ProductArn": "arn:aws:securityhub:us-west-1::product/aws/securityhub"
+              "ProductArn": "arn:aws:securityhub:us-west-1::product/LandonTClipp/securityhub"
             },
             {
               "Id": "arn:aws:securityhub:us-west-1:123456789012:subscription/pci-dss/v/3.2.1/PCI.Lambda.2/finding/a1b2c3d4-5678-90ab-cdef-EXAMPLE22222",
-              "ProductArn": "arn:aws:securityhub:us-west-1::product/aws/securityhub"
+              "ProductArn": "arn:aws:securityhub:us-west-1::product/LandonTClipp/securityhub"
             }
           ],
           "Note": {
@@ -479,7 +479,7 @@
           "RelatedFindings": [
             {
               "Id": "arn:aws:securityhub:us-west-1:123456789012:subscription/pci-dss/v/3.2.1/PCI.Lambda.2/finding/a1b2c3d4-5678-90ab-cdef-EXAMPLE33333",
-              "ProductArn": "arn:aws:securityhub:us-west-1::product/aws/securityhub"
+              "ProductArn": "arn:aws:securityhub:us-west-1::product/LandonTClipp/securityhub"
             }
           ],
           "Severity": {
@@ -500,11 +500,11 @@
           "ProcessedFindings": [
             {
               "Id": "arn:aws:securityhub:us-west-1:123456789012:subscription/pci-dss/v/3.2.1/PCI.Lambda.2/finding/a1b2c3d4-5678-90ab-cdef-EXAMPLE11111",
-              "ProductArn": "arn:aws:securityhub:us-west-1::product/aws/securityhub"
+              "ProductArn": "arn:aws:securityhub:us-west-1::product/LandonTClipp/securityhub"
             },
             {
               "Id": "arn:aws:securityhub:us-west-1:123456789012:subscription/pci-dss/v/3.2.1/PCI.Lambda.2/finding/a1b2c3d4-5678-90ab-cdef-EXAMPLE22222",
-              "ProductArn": "arn:aws:securityhub:us-west-1::product/aws/securityhub"
+              "ProductArn": "arn:aws:securityhub:us-west-1::product/LandonTClipp/securityhub"
             }
           ],
           "UnprocessedFindings": [
@@ -1564,13 +1564,13 @@
               "GeneratorId": "security-control/CloudTrail.2",
               "Id": "arn:aws:securityhub:us-east-2:123456789012:security-control/CloudTrail.2/finding/a1b2c3d4-5678-90ab-cdef-EXAMPLE11111",
               "LastObservedAt": "2022-10-28T16:10:06.956Z",
-              "ProductArn": "arn:aws:securityhub:us-east-2::product/aws/securityhub",
+              "ProductArn": "arn:aws:securityhub:us-east-2::product/LandonTClipp/securityhub",
               "ProductFields": {
                 "RelatedAWSResources:0/name": "securityhub-cloud-trail-encryption-enabled-fe95bf3f",
                 "RelatedAWSResources:0/type": "AWS::Config::ConfigRule",
                 "Resources:0/Id": "arn:aws:cloudtrail:us-east-2:123456789012:trail/AWSMacieTrail-DO-NOT-EDIT",
                 "aws/securityhub/CompanyName": "AWS",
-                "aws/securityhub/FindingId": "arn:aws:securityhub:us-east-2::product/aws/securityhub/arn:aws:securityhub:us-east-2:123456789012:security-control/CloudTrail.2/finding/a1b2c3d4-5678-90ab-cdef-EXAMPLE11111",
+                "aws/securityhub/FindingId": "arn:aws:securityhub:us-east-2::product/LandonTClipp/securityhub/arn:aws:securityhub:us-east-2:123456789012:security-control/CloudTrail.2/finding/a1b2c3d4-5678-90ab-cdef-EXAMPLE11111",
                 "aws/securityhub/ProductName": "Security Hub"
               },
               "ProductName": "Security Hub",

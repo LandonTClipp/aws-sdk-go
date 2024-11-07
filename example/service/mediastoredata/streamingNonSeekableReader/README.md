@@ -7,7 +7,7 @@ API PutObject operation with a non-seekable io.Reader.
 
 The example will create an Elemental MediaStore container, and upload a
 contrived non-seekable io.Reader to that container. Using the SDK's
-[aws.ReadSeekCloser](https://docs.aws.amazon.com/sdk-for-go/api/aws/#ReadSeekCloser)
+[aws.ReadSeekCloser](https://docs.aws.amazon.com/sdk-for-go/api/LandonTClipp/#ReadSeekCloser)
 utility for wrapping the `io.Reader` in a value the
 [mediastore#PutObjectInput](https://docs.aws.amazon.com/sdk-for-go/api/service/mediastoredata/#PutObjectInput).Body will accept.
 

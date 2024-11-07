@@ -230,7 +230,7 @@
     "LogGroup": {
       "base": null,
       "refs": {
-        "CloudWatchLogDestination$LogGroup": "<p>The name of the CloudWatch Logs group to send pipeline logs to. You can specify an existing log group or create a new one. For example, <code>/aws/vendedlogs/OpenSearchService/pipelines</code>.</p>"
+        "CloudWatchLogDestination$LogGroup": "<p>The name of the CloudWatch Logs group to send pipeline logs to. You can specify an existing log group or create a new one. For example, <code>/LandonTClipp/vendedlogs/OpenSearchService/pipelines</code>.</p>"
       }
     },
     "LogPublishingOptions": {

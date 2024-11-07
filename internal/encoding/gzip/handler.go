@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 	"strconv"
 
-	"github.com/aws/aws-sdk-go/aws/request"
+	"github.com/LandonTClipp/aws-sdk-go/LandonTClipp/request"
 )
 
 // NewGzipRequestHandler provides a named request handler that compresses the

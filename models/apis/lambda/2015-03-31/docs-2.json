@@ -1481,7 +1481,7 @@
     "LogGroup": {
       "base": null,
       "refs": {
-        "LoggingConfig$LogGroup": "<p>The name of the Amazon CloudWatch log group the function sends logs to. By default, Lambda functions send logs to a default log group named <code>/aws/lambda/&lt;function name&gt;</code>. To use a different log group, enter an existing log group or enter a new log group name.</p>"
+        "LoggingConfig$LogGroup": "<p>The name of the Amazon CloudWatch log group the function sends logs to. By default, Lambda functions send logs to a default log group named <code>/LandonTClipp/lambda/&lt;function name&gt;</code>. To use a different log group, enter an existing log group or enter a new log group name.</p>"
       }
     },
     "LogType": {
